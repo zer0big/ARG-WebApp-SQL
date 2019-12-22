@@ -151,7 +151,7 @@
       ],
       "tags": {
         "[concat('hidden-related:', resourceGroup().id, '/providers/Microsoft.Web/serverfarms/', parameters('hostingPlanName'))]": "empty",
-        "displayName": "ZerobWebsite"
+        "displayName": "0bigWebsite"
       },
       "properties": {
         "name": "[variables('webSiteName')]",
